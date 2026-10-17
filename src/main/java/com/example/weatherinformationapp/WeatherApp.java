@@ -33,7 +33,7 @@ import java.util.regex.Pattern;
 public class WeatherApp extends Application {
 
     // OpenWeatherMap API Configuration
-    private static final String API_KEY = "7dc720afeec821c95e546a1b58369c01";
+    private static final String API_KEY = "";
     private static final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather";
     private static final String FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast";
 
